@@ -1,0 +1,9 @@
+baseurl = "https://jamesgrobertson.github.io"
+languageCode = "en-us"
+title = "James G.\nRobertson"
+
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-0d"
+  description = "Blog-style ramblings about development."
